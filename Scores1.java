@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-class Scores {
+class Scores1 {
 
 	public static void main(String[] args) {
 	try(BufferedReader reader= Files.newBufferedReader(
