@@ -16,5 +16,5 @@ class Scores1 {
 			}catch(IOException e){
 				e.printStackTrace();
 			}
-	}
+	}    
 }
